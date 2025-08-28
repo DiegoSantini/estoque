@@ -70,6 +70,5 @@ php artisan serve
 1. **Categorias**: Acesse `/categorias` para criar e gerenciar categorias
 2. **Produtos**: Vá para `/produtos` para cadastrar itens do estoque
 3. **Movimentações**: Use `/movimentacoes` para registrar entradas e saídas
-4. **Dashboard**: A página inicial mostra o resumo do estoque
 
 ---
