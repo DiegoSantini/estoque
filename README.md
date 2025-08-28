@@ -27,7 +27,7 @@ Gerencie **categorias, produtos e movimentações** com atualização automátic
 **1. Clone o repositório**
 ```bash
 git clone https://github.com/DiegoSantini/estoque.git
-cd estoque-laravel
+cd estoque
 ```
 
 **2. Instale as dependências**
